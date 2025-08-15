@@ -1,6 +1,6 @@
 ## 2264. Largest 3-Same-Digit Number in String
 
-Dificulty: Easy
+Difficulty: Easy
 
 You are given a string num representing a large integer. An integer is good if it meets the following conditions:
 
